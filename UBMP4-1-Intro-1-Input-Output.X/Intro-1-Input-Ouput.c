@@ -68,6 +68,7 @@ int main(void)
  *    Do the LEDs keep flashing when SW2 is held? Look at the program and
  *    explain why this happens when SW2 is held.
  * 
+ -      
  * 2. Explain the difference between the statements: LED3 = 0; and LED3 = 1;
  * 
  * 3. What voltage do you expect the microcontroller to output to LED D3 when
